@@ -56,6 +56,7 @@ Another way to view sample metadata is using the API and MGnifyR
 9. Under programmatic access, select 'Open study in R'
 
 This will open an R notebook to access a study, and it's metadata.
+
 10. Scroll to section 'Fetch a list of the Analyses for the Study'
 11. To the code block add the line ```analyses_accessions <- head(analyses_accessions)```
 12. Start at the beginning now. Following the instructions: To run this code, click into each cell and press the ▶ button in the top toolbar, or press shift+enter.
