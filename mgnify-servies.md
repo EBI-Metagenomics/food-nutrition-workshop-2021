@@ -111,6 +111,25 @@ What does the protein code for?
 
 There are lots of different visualisation options available within the contig viewer. Take some time now to investigate the various options, and play about with it by looking at a few different contigs and the anotations they contain.
 
+### Requesting analysis of data
+
+#### Note: This step will show you how to request analysis in the future. You don't need to make any changes or request anything today as data needs to be submitted to ENA before it can be analysed.
+
+To analyse data in MGnify we first need consent to access your data in ENA. To allow this:
+
+- Login to your webin account here https://www.ebi.ac.uk/ena/submit/webin/login
+
+- Click 'Manage account'.
+
+Scroll down to metagenomics consent. For any analysis requests in the future you will need to first agree to consent access if you are happy to do so.
+
+- Navigate to the MGnify homepage and select Login. Login with your Webin credentials.
+
+- Navigate back to the homepage.
+
+- Click 'Submit and/or Request' and select 'Yes' to the data submission question.
+
+When requesting analysis in the future: here you can specify the study accessions you wish to have analysed and the analyses type.
 
 
 
