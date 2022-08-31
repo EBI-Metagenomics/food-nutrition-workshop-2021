@@ -1,0 +1,9 @@
+<PROJECT_SET>
+   <PROJECT alias="2022_test_tarragona_VK">
+      <TITLE>Survey of human 16S stool samples</TITLE>
+      <DESCRIPTION>This project surveys the bacterial population of human stool samples across the population of Tarragona using 16S amplicon sequencing, to determine whether the local diet influences the microbiome.</DESCRIPTION>
+      <SUBMISSION_PROJECT>
+         <SEQUENCING_PROJECT/>
+      </SUBMISSION_PROJECT>
+   </PROJECT>
+</PROJECT_SET>

@@ -1,0 +1,9 @@
+STUDY PRJEB55376
+SAMPLE SAMEA110346582
+NAME human_healthy_feces
+INSTRUMENT Illumina MiSeq
+INSERT_SIZE 200
+LIBRARY_SOURCE METAGENOMIC
+LIBRARY_SELECTION RANDOM
+LIBRARY_STRATEGY AMPLICON
+FASTQ /Users/vkale/Downloads/pipeline_v5/food-nutrition-workshop-2021/input-data/10333.Che.177.huma.fastq.gz

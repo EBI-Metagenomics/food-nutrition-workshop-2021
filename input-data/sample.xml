@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET>
+  <SAMPLE alias="INSERT ALIAS HERE + _your-initials" center_name="INSERT CENTRE NAME HERE">
+    <TITLE>INSERT SAMPLE TITLE HERE</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>INSERT TAXON ID HERE</TAXON_ID>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>project name</TAG>
+        <VALUE>e.g food-and-nutrition-survey</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>sequencing method</TAG>
+        <VALUE>INSERT SEQUENCING METHOD HERE</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>INSERT COLLECTION DATE HERE</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (latitude)</TAG>
+        <VALUE>INSERT LATITUDE HERE</VALUE>
+    	<UNITS>DD</UNITS>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (longitude)</TAG>
+        <VALUE>INSERT LONGITUDE HERE</VALUE>
+    	<UNITS>DD</UNITS>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>geographic location (country and/or sea)</TAG>
+    	<VALUE>INSERT COUNTRY HERE</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>broad-scale environmental context</TAG>
+    	<VALUE>INSERT HERE</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>local environmental context</TAG>
+    	<VALUE>INSERT HERE</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>environmental medium</TAG>
+    	<VALUE>INSERT HERE</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>host sex</TAG>
+    	<VALUE>INSERT HERE</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>host age</TAG>
+    	<VALUE>INSERT HERE</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>host body-mass index</TAG>
+    	<VALUE>INSERT HERE</VALUE>
+        <UNITS>kg/m2</UNITS>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>host height</TAG>
+    	<VALUE>INSERT HERE</VALUE>
+        <UNITS>m</UNITS>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>host subject id</TAG>
+    	<VALUE>INSERT HERE</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>host body product</TAG>
+    	<VALUE>INSERT HERE</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>ethnicity</TAG>
+    	<VALUE>INSERT HERE</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000014</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+</SAMPLE_SET>

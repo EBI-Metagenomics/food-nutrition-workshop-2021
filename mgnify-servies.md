@@ -49,7 +49,7 @@ Which bacterial phylum is most prevalent in this sample?
 How many matches are there to the 'Bacteroidetes' phylum?
 
 
-### View samples programatically 
+### View samples programmatically 
 Another way to view sample metadata is using the API and MGnifyR
 
 8. Navigate back to study MGYS00005742
@@ -121,7 +121,7 @@ To analyse data in MGnify we first need consent to access your data in ENA. To a
 
 - Click 'Manage account'.
 
-Scroll down to metagenomics consent. For any analysis requests in the future you will need to first agree to consent access if you are happy to do so.
+Scroll down to metagenomics consent. For any future analysis request you would need to first agree to consent access if you are happy to do so.
 
 - Navigate to the MGnify homepage and select Login. Login with your Webin credentials.
 
@@ -129,7 +129,9 @@ Scroll down to metagenomics consent. For any analysis requests in the future you
 
 - Click 'Submit and/or Request' and select 'Yes' to the data submission question.
 
-When requesting analysis in the future: here you can specify the study accessions you wish to have analysed and the analyses type.
+
+
+Here you can specify the study accessions you wish to have analysed and the analyses type.
 
 
 

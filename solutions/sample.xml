@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET>
+  <SAMPLE alias="test_sample" center_name="EMG">
+    <TITLE>healthy human feces sample</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>2705415</TAXON_ID>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>project name</TAG>
+        <VALUE>tarragona-food-survey</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>sequencing method</TAG>
+        <VALUE>Illumina MiSeq</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2022-08-31</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (latitude)</TAG>
+        <VALUE>41.11993436</VALUE>
+    	<UNITS>DD</UNITS>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (longitude)</TAG>
+        <VALUE>1.26046028</VALUE>
+    	<UNITS>DD</UNITS>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>geographic location (country and/or sea)</TAG>
+    	<VALUE>Spain</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>broad-scale environmental context</TAG>
+    	<VALUE>Homo Sapiens</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>local environmental context</TAG>
+    	<VALUE>Excretion feces</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>environmental medium</TAG>
+    	<VALUE>unknown</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>host sex</TAG>
+    	<VALUE>male</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>40</TAG>
+    	<VALUE>INSERT HERE</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>host body-mass index</TAG>
+    	<VALUE>23.8</VALUE>
+        <UNITS>kg/m2</UNITS>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>host height</TAG>
+    	<VALUE>1.81</VALUE>
+        <UNITS>m</UNITS>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>host subject id</TAG>
+    	<VALUE>Healthy_10_Excretion_Group1_0s_SampleDetails</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>host body product</TAG>
+    	<VALUE>feces</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+	    <TAG>ethnicity</TAG>
+    	<VALUE>unknown</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000014</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+</SAMPLE_SET>
