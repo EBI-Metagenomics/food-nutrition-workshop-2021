@@ -15,7 +15,7 @@ We will be using a test Webin account today. Credentials will be shared on the w
 #### Interactive submission
 - Web browser
 
-Note: **All uploads today will be test submissions** and are deleted after a dat, and you have the option to submit programmatically or interactively for each step.
+Note: **All uploads today will be test submissions** and are deleted after 24 hours. You have the option to submit programmatically or interactively for each step.
 
 ## ENA
 
