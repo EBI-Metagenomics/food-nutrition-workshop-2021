@@ -12,7 +12,7 @@ There are several options for searching data in MGnify, including this browse da
 
 ![Question](images/question.png) How many studies are related to the human digestive system?
 
-#### We will search for studies related to the Human digestive system biome with the search term 'dietary'.
+#### We will search for studies related to the human digestive system biome with the search term 'dietary'.
 2. Enter 'dietary' in the search terms.
 
 ![Question](images/question.png) How many of those previous studies have the phrase 'dietary' in their study title or description?
@@ -51,12 +51,13 @@ How many matches are there to the 'Bacteroidetes' phylum?
 
 ### View samples programatically 
 Another way to view sample metadata is using the API and MGnifyR
+
 8. Navigate back to study MGYS00005742
 9. Under programmatic access, select 'Open study in R'
 
 This will open an R notebook to access a study, and it's metadata.
 10. Scroll to section 'Fetch a list of the Analyses for the Study'
-11. To the code box add the line ```analyses_accessions <- head(analyses_accessions)```
+11. To the code block add the line ```analyses_accessions <- head(analyses_accessions)```
 12. Start at the beginning now. Following the instructions: To run this code, click into each cell and press the ▶ button in the top toolbar, or press shift+enter.
 
 You should have a metadata table for the first 6 samples and some diversity graphs.
