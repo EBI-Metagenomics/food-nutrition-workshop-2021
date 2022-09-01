@@ -98,9 +98,9 @@ Test fastq reads that can be used for this step are in input-data/10333.Che.177.
 
 Login to the webin portal and check your submission https://wwwdev.ebi.ac.uk/ena/submit/webin/login
 
-You should see a page like this to navigate
+You should see a page like this to navigate. You can search your accessions to view data.
 
-*IMAGE TO BE ADDED*
+![Question](images/ena-webin.png) 
 
 ## BioSamples
 
