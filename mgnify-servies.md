@@ -57,8 +57,9 @@ Another way to view sample metadata is using the API and MGnifyR
 
 This will open an R notebook to access a study, and it's metadata.
 
-10. Scroll to section 'Fetch a list of the Analyses for the Study'
-11. To the code block add the line ```analyses_accessions <- head(analyses_accessions)```
+10. In the second code box ensure the study matches the one we want to analyse:
+```mgnify_study_accession <- get_variable_from_link_or_input('MGYS', 'Study Accession', 'MGYS00005742')```
+11. Scroll to section 'Fetch a list of the Analyses for the Study'. To the code block add the line ```analyses_accessions <- head(analyses_accessions)```
 12. Start at the beginning now. Following the instructions: To run this code, click into each cell and press the ▶ button in the top toolbar, or press shift+enter.
 
 You should have a metadata table for the first 6 samples and some diversity graphs.
@@ -72,7 +73,7 @@ Which sample has the highest observed taxa (Richness)?
 
 
 ### View assembly analysis outputs
-13. Now, search for the analysis MGYA00595418. You can use the text search to find this accession. Have a look at the functional analysis tab.
+13. Now, search for the study MGYS00006002. Scroll to the analyses at the bottom and select MGYA00595418. Have a look at the functional analysis tab.
 
 ![Question](images/question.png)  
 How many predicted coding sequences (pCDS) are in the assembly?
